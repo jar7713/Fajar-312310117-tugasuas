@@ -39,7 +39,6 @@ public class MainActivity2 extends AppCompatActivity {
         ImageView4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                // Aksi lain, misalnya menampilkan pesan atau membuka URL
                 startActivity(new Intent(MainActivity2.this, MainActivity6.class));
             }
         });

@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String CORRECT_USERNAME = "Fajar 123";
+    private static final String CORRECT_USERNAME = "Fajar123";
     private static final String CORRECT_PASSWORD = "1234";
 
     @Override
